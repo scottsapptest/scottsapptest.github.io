@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adventure Time!</title>
+    <link>http://forestrydemosite.com/categories/test/index.xml</link>
+    <description>Recent content on Adventure Time!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://forestrydemosite.com/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test</title>
+      <link>http://forestrydemosite.com/test/</link>
+      <pubDate>Fri, 14 Oct 2016 16:55:00 +0000</pubDate>
+      
+      <guid>http://forestrydemosite.com/test/</guid>
+      <description>&lt;p&gt;This page is a test.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
